@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>About me :D</title>
+</head>
+<style><style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+h1, h2 {
+  color: #333;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  max-width: 800px;
+  margin: 10px auto;
+}
+
+a {
+  color: #4CAF50;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+table {
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+</style>
+</style>
+<h1>This is my actual 1st website the others made with help </h1>
+<hr>
+<h2>I will try to point out every point in html I learnt till now</h2>
+<body>
+<p>Welcome to my first website! I'm excited to learn and share my projects here.
+<br>
+<br>
+
+This site will showcase what I'm working on and things I'm passionate about.
+<br>
+<br>
+Feel free to explore and get in touch if you want to connect or collaborate.
+<br>
+<br>
+Thanks for visiting — more cool stuff is coming soon!
+<br>
+<br>
+<nav>
+  <a href="#">My Instagram</a>
+  <a href="#">My Facebook</a>
+  <a href="#">My Thread</a>
+  <a href="#">My Twitter</a>
+  <a href="#">My Youtube</a>
+</nav>
+
+<br>
+</p>
+<!DOCTYPE html>
+<html>
+<body>
+  <table border="1"
+  
+  <caption>About Me</caption>
+  <thead>
+    <tr>
+      <th>Info</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Name</td>
+      <td>Hrishit</td>
+    </tr>
+    <tr>
+      <td>Age</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Learning</td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>Goal</td>
+      <td>Become a Web developer and work for <a href="https://discord.com" target="_blank">Discord</a></td>
+    </tr>
+    <tr>
+      <td>Fun Fact</td>
+      <td>I like making games and coding cool stuff!</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
+<br>
+
+</body>
+</html>
